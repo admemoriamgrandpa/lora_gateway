@@ -61,7 +61,7 @@ Maintainer: Sylvain Miermont
 #define		TS_CPS				1E6 /* count-per-second of the timestamp counter */
 #define		PLUS_10PPM			1.00001
 #define		MINUS_10PPM			0.99999
-#define		DEFAULT_BAUDRATE	B9600
+#define		DEFAULT_BAUDRATE	B115200
 
 /* -------------------------------------------------------------------------- */
 /* --- PRIVATE VARIABLES ---------------------------------------------------- */
